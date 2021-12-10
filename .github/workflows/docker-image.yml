@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-lastet
     environment: staging
     container: google/cloud-sdk:alpine
-    stage: deploy
     steps:
       - run: echo $SERVICE_ACCOUNT_STG > /tmp/gcloud-key.json
       - run: gcloud auth activate-service-account --key-file /tmp/gcloud-key.json
