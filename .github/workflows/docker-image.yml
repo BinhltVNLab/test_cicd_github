@@ -8,7 +8,7 @@ on:
 jobs:
 
   deploy-stg:
-    runs-on: windows-latest
+    runs-on: ubuntu-20.04
     environment: staging
     container: google/cloud-sdk:alpine
     steps:
