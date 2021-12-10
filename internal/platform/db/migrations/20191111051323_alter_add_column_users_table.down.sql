@@ -1,0 +1,13 @@
+alter table user_profiles drop column rank;
+alter table user_profiles drop column job_title;
+alter table user_profiles drop column phone_number;
+alter table user_profiles drop column company_joined_date;
+alter table user_profiles drop column skill;
+alter table user_profiles drop column language;
+alter table user_profiles drop column education;
+alter table user_profiles drop column certificate;
+alter table user_profiles drop column award;
+alter table user_profiles drop column experience;
+alter table user_profiles drop column project;
+alter table user_profiles drop column introduce;
+alter table user_profiles drop column branch;

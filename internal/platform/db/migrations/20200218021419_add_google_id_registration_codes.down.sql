@@ -1,0 +1,1 @@
+alter table registration_codes drop column google_id;

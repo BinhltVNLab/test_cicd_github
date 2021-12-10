@@ -1,0 +1,3 @@
+alter table user_leave_requests drop constraint if exists user_leave_requests_user_id;
+alter table user_leave_requests drop constraint if exists user_leave_requests_organization_id;
+alter table user_leave_requests drop constraint if exists user_leave_requests_leave_request_type_id;

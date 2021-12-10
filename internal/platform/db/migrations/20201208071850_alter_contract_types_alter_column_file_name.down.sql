@@ -1,0 +1,1 @@
+ALTER TABLE contract_types DROP COLUMN IF EXISTS file_template_name;

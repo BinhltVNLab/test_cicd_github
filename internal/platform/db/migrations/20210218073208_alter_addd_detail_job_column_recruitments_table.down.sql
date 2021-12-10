@@ -1,0 +1,1 @@
+ALTER TABLE recruitments DROP COLUMN IF EXISTS detail_job_file_name;

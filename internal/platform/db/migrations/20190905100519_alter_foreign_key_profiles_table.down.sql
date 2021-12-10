@@ -1,0 +1,1 @@
+alter table user_profiles drop constraint if exists user_profiles_user_id;

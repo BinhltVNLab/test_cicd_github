@@ -1,0 +1,1 @@
+ALTER TABLE user_leave_requests DROP COLUMN subtract_day_off_type_id;

@@ -1,0 +1,9 @@
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS current_address;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS tax_code;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS status;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS identity_card;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS occupation;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS date_of_identity_card;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS country;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS work_place;
+ALTER TABLE user_profiles DROP COLUMN IF EXISTS permanent_residence;

@@ -1,0 +1,1 @@
+ALTER TABLE recruitments ADD COLUMN detail_job_file_name varchar (150);

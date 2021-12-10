@@ -1,0 +1,1 @@
+alter table detailed_job_recruitments drop column if exists place;

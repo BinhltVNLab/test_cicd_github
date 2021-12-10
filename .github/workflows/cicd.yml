@@ -1,0 +1,27 @@
+jobs:
+# - deploy
+
+# deploy:
+#   stage: deploy
+#   image: google/cloud-sdk:alpine
+#   environment: production
+#   only:
+#     - master
+#   script:
+#     - echo $SERVICE_ACCOUNT > /tmp/gcloud-key.json
+#     - gcloud auth activate-service-account --key-file /tmp/gcloud-key.json
+#     - gcloud config set project microerp-265008
+#     - cat .env.prod > .env
+#     - cd cmd/frontapi && gcloud app deploy --quiet app.yaml
+
+  deploy-stg:
+    runs-on: ubuntu-lastet
+    environment: staging
+    container: google/cloud-sdk:alpine
+    stage: deploy
+    steps:
+      - run: echo $SERVICE_ACCOUNT_STG > /tmp/gcloud-key.json
+      - run: gcloud auth activate-service-account --key-file /tmp/gcloud-key.json
+      - run: gcloud config set project microerp-stg
+      - run: cat .env.stg > .env
+      - run: cd cmd/frontapi && gcloud app deploy --quiet app-stg.yaml

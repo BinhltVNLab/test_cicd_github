@@ -1,0 +1,1 @@
+alter table user_profiles add constraint user_profiles_user_id foreign key (user_id) references users (id);

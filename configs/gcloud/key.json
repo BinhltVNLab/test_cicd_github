@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "microerp-265008",
+  "private_key_id": "11dc9b20c1c6d07b8374a2b502629bdbac3be2f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCfyx7v9gXQwjC\ndD4+gp6Ybq9zEkXJ69+sEqlJHpIQ07pBV6goPCZ05RYsbmjlPj/pcKQXgaV5OBeU\nNJ/J3vYdLkHJWMhW+CH73nKZAWjBhavmjnBxcMp1SUX8ieJOYeDjM8yD70Ak/niL\nZ5vApN9G+DS3ExRxBu5c06MkbMzNls0QJdlH7yHFc3xViYfUneI0I+Qp+s40kH/y\nUx+BhKE5eLEZzfvWDJ4h0o5EUDSy9R2G66cbzgUqkh7/gIB9P2Z8Yt8n1+/Z8C4F\nSp7hrOepGSs3OhWFVDNIOaLpVNLYmx0qw71hdVPbmSBM2NAbEI1T6sIXAwp/ICXG\nwWQ/yCGpAgMBAAECggEAALh4LSNOWJ6bCwIOMDPu9lI5jFk7LT0ILDIA8tWm90Yp\nGLB9QU52MB+80m6Y17myO4hexmATVsk3OHs1GOastSSw+sKSslR09VS8EXTidpxq\n+fvkK14XTe6otBTYzpnQLWZtCNqn0LXwT6uvrlgeB8NdX0zSb21SZZazeVaZ9xch\n3XXVQZbq4BSoPpf7AqxGBwz+NNmK0g93uCYLZ5VldiPuWIjZeJswdTdnEM1LgJ0R\n1ClCbtqUqrmSri5eHUbsAn2SCSXTYKE7VjXlXg08Zk9UxVTRfoKYMUTQkdATmEgo\nGQZJB5a+1Mpf41WSB0Wy5fgJg9ykMNFD2xesTlFHVQKBgQDtNBa1vfSyqdRDxyAy\n1OxCMDBqcm4/DJAF2gNcjJFoJ8d0fh4pnDD+2ParDA1N6yHW9jz+5ezDmk/JN38T\n8HK/gutF/f6AY8okiQzDROw+fLmCZM4ZncnMEOoDpfMEKt+WtAt7+UmpqcZazJBx\nFdpDoNFh0J0F2K1c8EH06i1N/QKBgQDR6LyVhND4lZGy42ZwoXDdUr3QR7tMPmVI\nGJ58+LulkayBu6rlGrttL4avuNy/sNFBz8MHkUVeD1jl9UqnHlGi4PUCC5/jfGsD\nt80FDObYGg9ixXEAGQBOHVNdlXd1y22hgodY4a+wMJxQXbz9zloLJBHOvGDd41Me\nNssLaos8HQKBgGWlkKXJBPca968jwZSG0cd7RwQWjU/PXlhjmFUsl5L+mOY+tUY3\nfHd5GhsqSvk87X9kfbbtaIxZsB8V/QraWxHeVFvmAA2ctZ76a9Gx01rjr8tEz10C\n1Nrx1JZDouQCS1YVSWaS6RIfgrSePLd5GdMpMxCriN5cf8331wvQ3iExAoGAXMTj\nM6FzSamwrsLZb0WqP+ZlhTtuh4+761UWFl1HcTEkcGGkcYSS+PpcKCUnSoC2usM7\nioilg6B8xYTW7Wz032tUXQcOLte54/bDYUwGadN6oUhpXIWwINXNFjsMhL7XQN4T\nOzDjGJcjPlFvSSx9lxbl19xhYy8oeN32dqErz/ECgYB0PR6UUbJSM1BPOiOhr1il\nj0V7N/PFYMVyo/yv/mPFpUTZHnBl451M95xmY/3NT0OkaBxZ85kQ+esHfX4Ic7np\nDjJjHdLQWrqt7zV2zcLt7r9XLfuESkHRGtu1iTHA1FtmotSsadyE7PgZC5AM7c/z\nswDZqBtD2fr/5DxDZAX3SA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "microerp@microerp-265008.iam.gserviceaccount.com",
+  "client_id": "107351282960610944811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/microerp%40microerp-265008.iam.gserviceaccount.com"
+}

@@ -1,0 +1,1 @@
+alter table registration_codes add column google_id varchar(50);

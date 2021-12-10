@@ -1,0 +1,1 @@
+alter table detailed_job_recruitments add place varchar(250) [] default '{}' not null;

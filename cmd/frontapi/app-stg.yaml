@@ -1,0 +1,2 @@
+service: golang-api-stg-service
+runtime: go113

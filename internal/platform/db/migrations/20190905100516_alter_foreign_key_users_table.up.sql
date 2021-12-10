@@ -1,0 +1,2 @@
+alter table users add constraint users_organization_id foreign key (organization_id) references organizations (id);
+alter table users add constraint users_role_id foreign key (role_id) references user_roles (id);

@@ -1,0 +1,2 @@
+service: golang-api-service
+runtime: go113

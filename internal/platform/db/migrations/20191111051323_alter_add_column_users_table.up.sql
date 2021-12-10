@@ -1,0 +1,13 @@
+alter table user_profiles add column rank integer;
+alter table user_profiles add column job_title varchar(100);
+alter table user_profiles add column phone_number varchar(20);
+alter table user_profiles add column company_joined_date date;
+alter table user_profiles add column skill jsonb;
+alter table user_profiles add column language jsonb;
+alter table user_profiles add column education jsonb;
+alter table user_profiles add column certificate jsonb;
+alter table user_profiles add column award jsonb;
+alter table user_profiles add column experience jsonb;
+alter table user_profiles add column project jsonb;
+alter table user_profiles add column introduce text;
+alter table user_profiles add column branch integer;

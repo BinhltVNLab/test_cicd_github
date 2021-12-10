@@ -1,0 +1,12 @@
+ALTER TABLE user_profiles ADD place_of_birth VARCHAR(255) NULL;
+ALTER TABLE user_profiles ADD gender   int4 NULL;
+ALTER TABLE user_profiles ADD marital_status VARCHAR(100) NULL;
+ALTER TABLE user_profiles ADD job_date date;
+ALTER TABLE user_profiles ADD book_number_bhxh VARCHAR(50) NULL;
+ALTER TABLE user_profiles ADD account_number_vcb VARCHAR(50) NULL;
+ALTER TABLE user_profiles ADD nation VARCHAR(50) NULL;
+ALTER TABLE user_profiles ADD religion VARCHAR(50) NULL;
+ALTER TABLE user_profiles ADD name_of_emergency VARCHAR(255) NULL; 
+ALTER TABLE user_profiles ADD relationships_of_emergency VARCHAR(255) NULL;
+ALTER TABLE user_profiles ADD address_of_emergency VARCHAR(255) NULL;
+ALTER TABLE user_profiles ADD license_plates VARCHAR(255) NULL;
